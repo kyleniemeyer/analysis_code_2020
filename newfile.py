@@ -1,3 +1,4 @@
 def function():
-    print('this is a new and exciting change!')
+    variable = 3.14159
+    print(f'value: {variable}')
     return
